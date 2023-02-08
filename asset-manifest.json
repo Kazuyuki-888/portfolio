@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.d0d75b53.js",
-    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
-    "static/media/blue-logo.png": "/static/media/blue-logo.f963dcac51d5020e10f3.png",
-    "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.d0d75b53.js.map": "/static/js/main.d0d75b53.js.map",
-    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/Kazuyuki-888.github.io/static/css/main.073c9b0a.css",
+    "main.js": "/Kazuyuki-888.github.io/static/js/main.b9a38583.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Kazuyuki-888.github.io/static/js/787.1ed0c42c.chunk.js",
+    "static/media/blue-logo.png": "/Kazuyuki-888.github.io/static/media/blue-logo.f963dcac51d5020e10f3.png",
+    "index.html": "/Kazuyuki-888.github.io/index.html",
+    "main.073c9b0a.css.map": "/Kazuyuki-888.github.io/static/css/main.073c9b0a.css.map",
+    "main.b9a38583.js.map": "/Kazuyuki-888.github.io/static/js/main.b9a38583.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Kazuyuki-888.github.io/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.d0d75b53.js"
+    "static/js/main.b9a38583.js"
   ]
 }
