@@ -59,7 +59,6 @@ const buttonTheme = css`
     font-size:1.2rem;
     text-align:center;
     font-weight:bolder
-
 `
 function ContentRows(props: any) {
     const contents = props.contents
@@ -117,6 +116,7 @@ const contentsList = [
         icon: <MoreHorizOutlinedIcon />
     }
 ]
+
 function LeftBar() {
     return (
         <div css={leftBarWrapper}>
